@@ -34,7 +34,7 @@ During this project, I learned:
 
 ## Links
 
-- Solution URL: 
+- Solution URL: https://github.com/JAE5IVE/Results-Summary-Component
 - Live Site URL: 
 
 ## Author
